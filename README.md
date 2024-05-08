@@ -1,1 +1,2 @@
-# Hello-IT-Project
+# DetectiveWillsonHellberg
+HelloIT - Detective Willson Hellberg game
